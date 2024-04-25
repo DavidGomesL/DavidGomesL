@@ -1,5 +1,5 @@
 ## Olá! Eu sou o David Luan
-- Moro em Fortaleza, Ceará
+- Resido em Fortaleza, Ceará
 - Curso graduação em análise e desenvolvimento de sistemas no Centro Universitário Unifanor
 - Realizo o curso de Profissionalização em Desenvolvimento FullStack na Digital College
 - Recentemente fui aprovado para fazer parte da turma 2024 do Bootcamp Santander
