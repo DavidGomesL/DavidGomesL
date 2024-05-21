@@ -4,11 +4,10 @@
 - Realizo o curso de Profissionalização em Desenvolvimento FullStack na Digital College
 - Recentemente fui aprovado para fazer parte da turma 2024 do Bootcamp Santander
 - Estou realizando minha transição de carreira e estou em busca de uma oportunidade como estagiário em desenvolvimento front-end ou desenvolvedor front-end junior
-- Estou estudando Javascript
+- Estou estudando ReactJS
 
 <div>
 <a src="https://github.com/DavidGomesL">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=DavidGomesL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGomesL&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
